@@ -12,17 +12,17 @@ function App() {
       <Tabs> 
         <div label="Tab 01"> 
           <div className="container">
-            TAB 01 ATIVA
+            EU 
           </div>
         </div> 
         <div label="Tab 02"> 
           <div className="container">
-            TAB 02 ATIVA
+            AMO
           </div>
         </div> 
         <div label="Tab 03"> 
           <div className="container">
-            TAB 03 ATIVA
+            MEU Carrapatinho
           </div>
         </div> 
       </Tabs> 
